@@ -5,11 +5,11 @@
 <details>
 <summary>Steps</summary>
 
-- clone the web site from the link
+- pull the image from dockerhub
 
 ```
 
-https://github.com/singhmohit14072002/Minor-Project
+docker pull singhmohit14072002/myproject
 
 ```
 
@@ -19,7 +19,7 @@ https://github.com/singhmohit14072002/Minor-Project
 
 docker ps -a
 
-docker run 
+docker run image-name
 
 ```
 
@@ -27,7 +27,7 @@ docker run
 
 ```
 
-localhost:8080
+localhost:8001
 
 ```
 
