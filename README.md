@@ -1,5 +1,5 @@
 # Minor-Project
-- This is my college minor project.
+- This is my college minor project and.
 - To run this project follow below steps
 
 <details>
